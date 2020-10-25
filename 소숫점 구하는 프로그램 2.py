@@ -32,6 +32,8 @@ while a < 100:
 
 print(l)
 
+#Github 파일 업로드 연습 중~~ ㅎ
+
 
 
 
